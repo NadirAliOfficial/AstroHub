@@ -24,7 +24,3 @@ open index.html
 - [NASA APOD](https://api.nasa.gov/)
 - [Open Notify ISS](http://open-notify.org/)
 - [SpaceFlightNews API](https://spaceflightnewsapi.net/)
-
-## Screenshots
-
-> Dark themed dashboard with live ISS map and APOD feed.
